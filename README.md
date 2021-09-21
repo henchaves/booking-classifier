@@ -1,6 +1,6 @@
 ## Hurb Challenge - Machine Learning
 
-In this project, we explore the [hotel booking demand dataset](https://www.sciencedirect.com/science/article/pii/S2352340918315191) to build a model which can predict whether a costumer is prone to cancel or not a booking.
+In this project, we explore the [hotel booking demand dataset](https://www.sciencedirect.com/science/article/pii/S2352340918315191) to build a model which can predict whether a costumer is prone to cancel a booking.
 
 With such a model, we can develop strategies to approach the customers and ensure they will not cancel a booking, so increasing the revenue.
 
