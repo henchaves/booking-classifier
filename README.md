@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Logo-hurb-azul.png" width="300px"/>
+
 ## Hurb Challenge - Machine Learning
 
 In this project, we explore the [hotel booking demand dataset](https://www.sciencedirect.com/science/article/pii/S2352340918315191) to build a model which can predict whether a customer is prone to cancel a booking.
