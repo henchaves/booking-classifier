@@ -2,3 +2,5 @@ jupyterlab
 tensorflow
 pandas
 seaborn
+sklearn
+statsmodels
